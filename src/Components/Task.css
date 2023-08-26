@@ -1,0 +1,25 @@
+
+  
+  .task{
+    background-color: rgb(138, 138, 138);
+    padding:3px;
+    border-radius: 5px/ 6px;
+    cursor: pointer ;
+    text-align: left;
+    width: 100%;
+    display:inline-flex;
+    vertical-align:10% 50%;
+    margin: 1px; ;
+  }
+  .taskname{
+    color:rgb(255, 255, 255);
+    padding: 5px;
+  }
+  .tasknamecrossed{
+    color:rgb(65, 65, 65);
+    padding: 5px;
+    text-decoration: line-through;
+  }
+  .checkbox {
+    cursor: pointer ;
+  }

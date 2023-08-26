@@ -1,0 +1,23 @@
+#root {
+  
+  margin: 0 auto;
+  /*padding: 2rem;*/
+  text-align: center;
+}
+
+.App {
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  height: 100%;
+}
+.list{
+  padding: 1%;
+  padding-right: 15pt;
+  height:100%;
+  max-height: 95vh;
+  width:60%;
+  margin: auto;
+  overflow-x:hidden;
+  overflow-y:scroll ;
+}
